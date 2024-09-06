@@ -1,0 +1,6 @@
+accelerate
+datasets
+evaluate
+ipywidgets
+scikit-learn
+transformers[torch]
